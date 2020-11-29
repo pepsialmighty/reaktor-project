@@ -40,8 +40,9 @@ There will be 3 endpoints, represent for 3 categories:
 - [Shirt]
 - [Accesories]
 
-There will be a pagination function in order to make it more convenience for the user to use the application.<br />
-When the data being fetched, the _Back_ button will be disable and only be able to use when all the data being displayed.
+*There will be a pagination function in order to make it more convenience for the user to use the application.<br />*
+
+*When the data being fetched, the _Back_ button will be disable and only be able to use when all the data being displayed.*
 
 ## Contributing to this checklist
 
